@@ -1,0 +1,155 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+a{
+    text-decoration: none;
+}
+
+body{
+    background-image: url(../image/body.png);
+}
+.div_menu{
+    width: 100%;
+    height: 500px;
+    background-image: url(../image/slide1.jpg);
+    background-size: cover;
+    background-position: center;
+   
+    
+}
+.img_logo{
+    height: 50px;
+    width: 170px;
+    margin-top: 24px;
+    margin-left: 97px;
+    position: absolute;
+}
+.div_menu1{
+    font-family: 'Open Sans', sans-serif;
+    width: 100%;
+    height: 90px;
+    
+    margin-left: 0px;
+}
+.INSCRIS-TOI{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #0489f6;
+    padding: 10px 20px;
+    margin-top: -17px;
+    border-radius: 20px;
+
+}
+.div_menu2{
+    font-family: 'Open Sans', sans-serif;
+    width: 90%;
+    height: 90px;
+    
+    margin-left: 50px;
+    margin-top: -17px;
+}
+a:hover{
+    color: #0489f6;
+}
+.div_menu1 ul{
+    font-family: 'Open Sans', sans-serif;
+    display: inline-block;
+    margin-right: 10px;
+    float: right;
+    color: white;
+
+}
+.INSCRIS-TOI{
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 400px;
+}
+.INSCRIS-TOI:hover{
+    background-color: white;
+    color: #0489f6;
+}
+.div_menu1 ul li{
+    display: flex;
+    display: inline-block;
+    margin-top: 33px;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 44px;
+}
+.div_menu1 ul li:hover{
+    color: #0489f6;
+}
+
+.div_title{
+    margin-left: 160px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 100px;
+    display: inline-block;
+    position: relative;
+}
+.b_100{
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    margin-top: 13px;
+    display: block;
+}
+.button_INSCRIS-TOI{
+    background-color: none;
+    font-family: 'Open Sans', sans-serif;
+    border: white solid 3px;
+    height: 100px;
+    width: 100px;
+    color: white; 
+    padding: 15px 40px;
+    margin-top: 150px;
+    border-radius: 60px;
+}
+
+.b_gratuite{
+    font-size: 40px;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    display: block;
+}
+.button_DECOUVER_LECOLE{
+    font-family: 'Open Sans', sans-serif;
+    margin-top: -17px;
+    border-radius: 50px;
+    color: white;
+    background-color: #0489f6;
+    padding: 20px 50px;
+}
+.button_DECOUVER_LECOLE:hover{
+    background-color: white;
+    color: #0489f6;
+}
+.img_vedio{
+    display: inline-block;
+    height: 15px;
+    width: 15px;
+    position: absolute;
+    top: 121px;
+    right: 272px;
+}
+.div_87:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+    @media screen and (max-width: 792px){
+    .div_2265{
+        width: 100%;
+        order: 1; 
+        background-color: green;
+    }
+    .div_87{
+        width: 100%;  
+        order: 2;
+    }
+    .div_53{
+        width: 100%;  
+        order: 3;
+    }
+    
+}

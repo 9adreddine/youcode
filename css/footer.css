@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.div_footer{
+    background-color: black;
+    width: 100%;
+    height: 140px;
+    margin: 60px 0px 0px 0px;
+}
+.p_contactez{
+    position: absolute;
+    color: #666666;
+    font-size: 19px;
+    margin: 30px 0px 0px 60px;
+}
+.p_email{
+    position: absolute;
+    color: white;
+    font-size: 19px;
+    margin: 60px 0px 0px 60px;
+    text-decoration : underline;
+}
+.p_email:hover{
+    color: #0489f6;
+}
+a:hover{
+    color: #0489f6;
+}
+.p_2019{
+    position: absolute;
+    color: #666666;
+    font-size: 17px;
+    margin: 102px 0px 0px 659px;
+}
+.p_suivez{
+    position: absolute;
+    color: white;
+    font-size: 19px;
+    float: right;
+    margin: 25px 0px 0px 1198px;
+}
+.img_icon{
+    float: right;
+    margin: 81px 253px 0px 0px;
+    
+}
+.img_icon2{
+    float: right;
+    margin: 81px -67px 0px 0px;
+    
+}
+.img_icon3{
+    float: right;
+    margin: 81px -114px 0px 0px;
+    
+}
+.img_icon4{
+    float: right;
+    margin: 81px -169px 0px 0px;
+    
+}
+a{
+    color: white;
+}

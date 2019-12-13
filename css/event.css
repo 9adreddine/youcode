@@ -1,0 +1,329 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+.div_event_robotics{
+    display: inline-block;
+    height: 300px;
+    width: 28%;
+    background: yellowgreen;
+    margin: 280px 0px 0px 63px;
+}
+.div_event_robotics_img{
+    display: inline-block;
+    height: 300px;
+    width: 100%;
+}
+a:hover{
+    color: #0489f6;
+}
+.div_event_robotics_titel{
+    display: inline-block;
+    font-size: 24px;
+    margin: 24px 0px 0px 0px;
+    color: white;
+    background-color: #0489f6;
+    padding:  15px 17px 12px 21px;
+    border-radius: 28px;
+}
+.div_event_robotics_titel:hover{
+    color: white;
+    background-color: black;
+    
+    border-radius: 28px;
+}
+.div_event_robotics_paragraf{
+    display: inline-block;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*       desing          */
+
+
+
+
+
+
+.div_event_desing{
+    position: absolute;
+    display: inline-block;
+    height: 300px;
+    width: 28%;
+    background: rgb(14, 17, 9);
+    margin: 280px 0px 0px 63px;
+}
+.div_event_desing_img{
+    position: absolute;
+    display: inline-block;
+    margin: 0px 0px 0px 0px;
+    height: 300px;
+    width: 100%;
+}
+.div_event_desing_titel{
+    position: absolute;
+    display: inline-block;
+    font-size: 24px;
+    margin: 332px 0px 0px 25px;
+    color: white;
+    background-color: #0489f6;
+    padding:  15px 20px 12px 24px;
+    border-radius: 28px;
+}
+.div_event_desing_titel:hover{
+    display: inline-block;
+    color: white;
+    background-color: black;
+   
+    border-radius: 28px;
+}
+.div_event_desing_paragraf{
+    display: inline-block;
+    font-size: 20px;
+    margin: 391px 0px 0px 58px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* -----------------------code week -------------------*/
+
+
+
+.div_event_codeweek{
+    position: absolute;
+    display: inline-block;
+    height: 300px;
+    width: 28%;
+    background: rgb(14, 17, 9);
+    margin: 280px 0px 0px 563px;
+}
+.div_event_codeweek_img{
+    position: absolute;
+    display: inline-block;
+    margin: 0px 0px 0px 0px;
+    height: 300px;
+    width: 100%;
+}
+.div_event_codeweek_titel{
+    position: absolute;
+    display: inline-block;
+    font-size: 24px;
+    margin: 338px 0px 0px 15px;
+    color: white;
+    background-color: #0489f6;
+    padding:  15px 20px 12px 24px;
+    border-radius: 28px;
+}
+.div_event_codeweek_titel:hover{
+    display: inline-block;
+    color: white;
+    background-color: black;
+   
+    border-radius: 28px;
+}
+.div_event_codeweek_paragraf{
+    display: inline-block;
+    font-size: 20px;
+    margin: 399px 0px 0px 30px;
+}
+
+
+
+
+
+
+
+
+/* ---------------------------- what the kaze ---------------------------*/
+
+.div_event_whatkaze{
+    position: absolute;
+    display: inline-block;
+    height: 300px;
+    width: 40%;
+    background: rgb(14, 17, 9);
+    margin: 930px 0px 0px -403px;
+}
+.div_event_whatkaze_img{
+    position: absolute;
+    display: inline-block;
+    margin: 0px 0px 0px 0px;
+    height: 300px;
+    width: 100%;
+}
+.div_event_whatkaze_titel{
+    position: absolute;
+    display: inline-block;
+    font-size: 24px;
+    margin: 338px 0px 0px 15px;
+    color: white;
+    background-color: #0489f6;
+    padding:  13px 234px 12px 212px;
+    border-radius: 28px;
+}
+.div_event_whatkaze_titel:hover{
+    display: inline-block;
+    color: white;
+    background-color: black;
+   
+    border-radius: 28px;
+}
+.div_event_whatkaze_paragraf{
+    display: inline-block;
+    font-size: 20px;
+    margin: 399px 0px 0px 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ---------------------------- RDV ---------------------------*/
+
+
+
+
+
+
+
+
+
+.div_event_RDV{
+    position: absolute;
+    display: inline-block;
+    height: 300px;
+    width: 40%;
+    background: rgb(14, 17, 9);
+    margin: 895px 0px 0px 303px;
+}
+.div_event_RDV_img{
+    position: absolute;
+    display: inline-block;
+    margin: 0px 0px 0px 0px;
+    height: 300px;
+    width: 100%;
+}
+.div_event_RDV_titel{
+    position: absolute;
+    display: inline-block;
+    font-size: 24px;
+    margin: 373px 0px 0px 15px;
+    color: white;
+    background-color: #0489f6;
+    padding:  13px 234px 12px 209px;
+    border-radius: 28px;
+}
+.div_event_RDV_titel:hover{
+    display: inline-block;
+    color: white;
+    background-color: black;
+   
+    border-radius: 28px;
+}
+.div_event_RDV_paragraf{
+    display: inline-block;
+    font-size: 20px;
+    margin: 437px 0px 0px 30px;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.div_footer{
+    background-color: black;
+    width: 100%;
+    height: 140px;
+    margin: 760px 0px 0px 0px;
+}
+.p_contactez{
+    position: absolute;
+    color: #666666;
+    font-size: 19px;
+    margin: 30px 0px 0px 60px;
+}
+.p_email{
+    position: absolute;
+    color: white;
+    font-size: 19px;
+    margin: 60px 0px 0px 60px;
+    text-decoration : underline;
+}
+.p_email:hover{
+    color: #0489f6;
+}
+.p_2019{
+    position: absolute;
+    color: #666666;
+    font-size: 17px;
+    margin: 102px 0px 0px 659px;
+}
+.p_suivez{
+    position: absolute;
+    color: white;
+    font-size: 19px;
+    float: right;
+    margin: 25px 0px 0px 1198px;
+}
+.img_icon{
+    float: right;
+    margin: 81px 253px 0px 0px;
+    
+}
+.img_icon2{
+    float: right;
+    margin: 81px -67px 0px 0px;
+    
+}
+.img_icon3{
+    float: right;
+    margin: 81px -114px 0px 0px;
+    
+}
+.img_icon4{
+    float: right;
+    margin: 81px -169px 0px 0px;
+    
+}
+a{
+    color: white;
+}
